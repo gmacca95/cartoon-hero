@@ -1,0 +1,29 @@
+body{
+	background: mintcream;
+
+	h1{
+		font-size: 30px;
+		color: #A080F6;
+	}
+
+	h2{
+		font-size: 20px;
+		color: #FF9C4C;
+	
+	}
+
+	.big{
+		font-size: 60px;
+	}
+
+	.uppercase{
+		text-transform: uppercase;
+	}
+
+	.big.uppercase{
+		color: navy;
+	}
+
+	h1 span{
+		color:red;
+	}
